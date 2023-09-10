@@ -14,9 +14,9 @@ Star Rail Instant Tea, a bot for Honkai: Star Rail, based on the next generation
 
 
 
-## Install [![](https://img.shields.io/github/downloads/LmeSzinc/StarRailCopilot/total?color=4e4c97)](https://github.com/LmeSzinc/StarRailCopilot/releases)
+## Install [![](https://img.shields.io/github/downloads/sola97/StarRailCopilot/total?color=4e4c97)](https://github.com/sola97/StarRailCopilot/releases)
 
-Refers to [Installation tutorial](https://github.com/LmeSzinc/StarRailCopilot/wiki/Installation_cn), including easy-installer manual, use manual, manual installation tutorial.
+Refers to [Installation tutorial](https://github.com/sola97/StarRailCopilot/wiki/Installation_cn), including easy-installer manual, use manual, manual installation tutorial.
 
 > **Why use emulators?** If you run a bot on the desktop client, game windows must stay at front. I guess you don't wanna baby-sit there without being able to move the mouse and keyboard while running the bot, so use the emulators.
 
@@ -28,11 +28,11 @@ Refers to [Installation tutorial](https://github.com/LmeSzinc/StarRailCopilot/wi
 
 Discord https://discord.gg/aJkt3mKDEr QQ Group 752620927
 
-- [Minimap Tracking](https://github.com/LmeSzinc/StarRailCopilot/wiki/MinimapTracking)
+- [Minimap Tracking](https://github.com/sola97/StarRailCopilot/wiki/MinimapTracking)
 
 - Development Docs (menu is on sidebar): [Alas wiki](https://github.com/LmeSzinc/AzurLaneAutoScript/wiki/1.-Start) (in Chinese). However, there is ton of code newly written, it is recommended to read the source code and historical commits.
 
-- Development Road Map: [#10](https://github.com/LmeSzinc/StarRailCopilot/issues/10). Pull Requests are welcomed, just pick the part you interested to work on.
+- Development Road Map: [#10](https://github.com/sola97/StarRailCopilot/issues/10). Pull Requests are welcomed, just pick the part you interested to work on.
 
 > **How to add multi-language or multi-server support?** Need assets updates, see ["Adding a Button" in development docs](https://github.com/LmeSzinc/AzurLaneAutoScript/wiki/4.1.-Detection-objects#%E6%B7%BB%E5%8A%A0%E4%B8%80%E4%B8%AA-button).
 
